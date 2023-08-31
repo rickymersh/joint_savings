@@ -1,4 +1,4 @@
-!To automate the creation of a join savings account using smart contracts and solidity
+To automate the creation of a join savings account using smart contracts and solidity
 
 ![deployed](https://github.com/rickymersh/joint_savings/blob/main/Deployed.PNG)https://github.com/rickymersh/joint_savings/blob/main/Deployed.PNG
 
